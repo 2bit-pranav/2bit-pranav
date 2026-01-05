@@ -17,8 +17,8 @@ I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym,
 
 ## Top Projects
 
-- [**invoice-extractor**](https://github.com/2bit-pranav/invoice-extractor): A tool for extracting and processing invoices. (⭐ 0)
-- [**quizapp**](https://github.com/2bit-pranav/quizapp): A fun quiz application designed with JavaScript. (⭐ 0)
+- [**Autotally**](https://github.com/2bit-pranav/invoice-extractor): A tool that automates extracting and processing invoice details into Tally Prime.
+- [**F1 Telemetry Live**](link): A telemetry dashboard that displays live race data from F1 2020 game engine.
 
 ## GitHub Stats
 

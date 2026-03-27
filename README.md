@@ -13,7 +13,7 @@ I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym,
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,nodejs,mongodb,java,spring,maven&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,nodejs,cpp,java,spring,maven&perline=10)](https://skillicons.dev)
 
 ## Top Projects
 

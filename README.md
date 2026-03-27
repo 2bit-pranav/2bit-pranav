@@ -24,8 +24,6 @@ I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym,
 
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen) ![Followers](https://img.shields.io/badge/Followers-0-red) ![Following](https://img.shields.io/badge/Following-0-blue)
 
-Visit my profile [here](https://github.com/2bit-pranav) to see more!
-
 ## Connect with Me
 
 https://www.linkedin.com/in/pranav-chandak/

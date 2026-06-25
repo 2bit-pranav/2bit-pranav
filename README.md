@@ -9,7 +9,7 @@
 
 ## About Me
 
-I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym, it works on my machine* 🤓. Currently, I'm engaged in various projects on GitHub, aiming to refine my skills and contribute to the open-source community.
+I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym, it works on my machine* 🤓. Currently, I'm engaged in some projects, aiming to refine my skills and contribute to the open-source community.
 
 ## Skills & Technologies
 
@@ -18,7 +18,7 @@ I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym,
 ## Top Projects
 
 - [**Autotally**](https://github.com/2bit-pranav/autotally): A tool that automates extracting and processing invoice details into Tally Prime.
-- [**F1 Telemetry Live**](https://github.com/2bit-pranav/f1-telemetry): A telemetry dashboard that displays live race data from F1 2020 game engine.
+- [**Real-time Telemetry Streaming Dashboard**](https://github.com/2bit-pranav/f1-telemetry): A telemetry dashboard that streams live race data from F1 2020 game engine.
 
 ## GitHub Stats
 

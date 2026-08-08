@@ -13,10 +13,11 @@ I believe in the power of a **2-bit brain with 64-bit dreams**. My motto? *Wdym,
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,nodejs,cpp,java,spring,maven&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,postgres,git,github,postman&perline=10)](https://skillicons.dev)
 
 ## Top Projects
 
+- [**Atlas**](https://github.com/2bit-pranav/atlas): A multi-purpose agent-orchestration built using Microsoft Autogen to automate web tasks.
 - [**Autotally**](https://github.com/2bit-pranav/autotally): A tool that automates extracting and processing invoice details into Tally Prime.
 - [**Real-time Telemetry Streaming Dashboard**](https://github.com/2bit-pranav/f1-telemetry): A telemetry dashboard that streams live race data from F1 2020 game engine.
 
